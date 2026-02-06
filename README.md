@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis (Python • SQL • Power BI)
 
-## ⭐ Project Highlights (Recruiter-Friendly)
+## ⭐ Project Highlights 
 - Cleaned and transformed **3,900 retail transactions** using Python (missing values, standardization, feature engineering).
 - Built **customer segmentation logic (New / Returning / Loyal)** and analyzed subscription + discount behavior using PostgreSQL.
 - Developed an interactive **Power BI dashboard** with KPIs and filters for revenue, sales, and demographic trends.
